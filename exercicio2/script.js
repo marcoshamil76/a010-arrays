@@ -1,5 +1,3 @@
-//const minhaString = "Eu não sou supersticioso, mas sou um pouco ________.      ";
-
 const primeiraArray = [1976, 1978, 2004, 2009]
 const segundaArray = ["Marcos", "Elida", "Maria", "Miguel", "Bento"]
 const terceiraArray = ["Marcos", 1976, true, "Elida", 1978, true, "Maria", 2004, true]
